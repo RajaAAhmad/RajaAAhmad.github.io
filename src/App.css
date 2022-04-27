@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.heading {
+  margin-top: 0.5em;
+  font-family: 'Press Start 2P' !important;
+}
+
+.container {
+  margin-top: 2em; 
+  text-align: left;
+}
+
+.buttons {
+  margin: 1rem;
+}
+
+.gradient {
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  height: 100vh;
+}
+
+.button-container {
+  background-color: rgba(0, 0, 0, 0.511);
+  margin-top: 10%;
+  width: 50%;
+  border-radius: 30px;
+  padding: 6rem;
+}
+
+.wrapper {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
